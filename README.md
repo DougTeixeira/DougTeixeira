@@ -10,8 +10,8 @@ Oi, eu sou o Douglas, estudante de ***Física*** na ***Universidade Federal do C
 
 <div align="center">
   <a href="https://github.com/DougTeixeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DougTeixeira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougTeixeira&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DougTeixeira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougTeixeira&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
   

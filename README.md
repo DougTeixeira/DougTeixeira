@@ -1,5 +1,13 @@
-### Hi there 👋
+### 👋***Olá, seja bem-vindo!***
+Oi, eu sou o Douglas, estudante de ***Física*** na ***Universidade Federal do Ceará***, sou mais um apaixonada por *exatas* e *tecnologia*. 
+
+- 👩‍💻 Estudante de DataScience 
+- 🚀 Estudante de Python, R, Sql, Machine Larning 🧠 e otras cositas más.
+
+
 ##  
+
+
 <div align="center">
   <a href="https://github.com/DougTeixeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DougTeixeira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -10,6 +18,8 @@
 <div align="center" style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/douglas-teixeira-6854581aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dougsilvateixeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+<div align="center" style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> 
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> 
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"> 

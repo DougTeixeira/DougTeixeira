@@ -1,11 +1,11 @@
 ### 👋***Olá, seja bem-vindo!***
 Oi, eu sou o Douglas, estudante de ***Física*** na ***Universidade Federal do Ceará***, sou mais um apaixonada por *exatas* e *tecnologia*. 
 
-👩‍💻 🐍 Estudante de Python 🐍
-👩‍💻 🦄 Estudante de Django 🦄
-👩‍💻 🧠 Estudante de DataScience 🧠
-👩‍💻 🎲 Estudante de Sql 🎲
-👩‍💻 🚀 e otras cositas más. 🚀
+- 👩‍💻 🐍 Estudante de Python 🐍
+- 👩‍💻 🦄 Estudante de Django 🦄
+- 👩‍💻 🧠 Estudante de DataScience 🧠
+- 👩‍💻 🎲 Estudante de Sql 🎲
+- 👩‍💻 🚀 e otras cositas más. 🚀
 
 ##  
 

@@ -1,5 +1,5 @@
 ### 👋***Olá, seja bem-vindo!***
-Oi, eu sou o Douglas, estudante de ***Física*** na ***Universidade Federal do Ceará***, sou mais um apaixonada por *exatas* e *tecnologia*. 
+Oi, eu sou o Douglas, estudante de ***Física*** na ***Universidade Federal do Ceará***, sou mais um apaixonado por *exatas* e *tecnologia*. 
 
 - 👩‍💻 🐍 Estudante de Python 🐍
 - 👩‍💻 🦄 Estudante de Django 🦄
